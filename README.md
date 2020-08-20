@@ -10,7 +10,7 @@
 - 🥅 Looking to make a positive impact on the community
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4hdzcas2ogggndw7l5xeoiyhl?si=HAYwQsFCSvy1RJgJgFL8yQ)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4hdzcas2ogggndw7l5xeoiyhl)
 
 ### Connect with me:
 
