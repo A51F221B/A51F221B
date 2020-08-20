@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=@asifkashif478.com&style=for-the-badge&url=https%3A%2F%2F@asifkashif478.com)](https://medium.com/@asifkashif478)
 [![Twitter Follow](https://img.shields.io/twitter/follow/A51F221B?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=A51F221B)
 
-## I'm a Cybersecurity student && technology enthusiast 
+## I'm a Cybersecurity student & technology enthusiast 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm just a normal student experimenting with different things
