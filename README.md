@@ -14,7 +14,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="A51F221B Spotify Playing" width="350" />](https://open.spotify.com/user/4hdzcas2ogggndw7l5xeoiyhl)
 ### Connect with me:
 
-[<img align="left" alt="medium.com/@asifkashif478" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://a51f221b.medium.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="A51F221B | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 ### Recent Medium Articles :
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asifkashif478/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asifkashif478/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asifkashif478/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@a51f221b/0" alt="Recent Article 0"> 
 
 
 ## My GitHub Stats &#x1f4c8;
@@ -46,5 +46,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=A51F221B&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="A51F221B Github Stats" />
 </a>
 
-[website]: https://medium.com/@asifkashif478
+[website]: https://a51f221b.medium.com/
 [twitter]: https://twitter.com/A51F221B
