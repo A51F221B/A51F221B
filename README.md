@@ -19,9 +19,6 @@
 
 <br />
 
-### My TryHackMe profile :
-
-<img align="left" alt="Try hack me" src="https://tryhackme-badges.s3.amazonaws.com/A51F221B.png" />
 
 ### Languages and Tools:
 
