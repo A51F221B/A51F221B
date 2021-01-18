@@ -1,6 +1,6 @@
 ### Hi there, I'm A51F221B
 
-[![Website](https://img.shields.io/website?label=@a51f221b.medium.com.com&style=for-the-badge&url=https%3A%2F%2F@asifkashif478.com)](https://a51f221b.medium.com/)
+[![Website](https://img.shields.io/website?label=@a51f221b.medium.com&style=for-the-badge&url=https%3A%2F%2F@asifkashif478.com)](https://a51f221b.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/A51F221B?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=A51F221B)
 
 ## I'm a Cybersecurity student & technology enthusiast 
