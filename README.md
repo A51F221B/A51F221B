@@ -21,7 +21,7 @@
 
 ### My TryHackMe profile :
 
-<script src="https://tryhackme.com/badge/186035"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/A51F221B.png" alt="TryHackMe">
 
 ### Languages and Tools:
 
