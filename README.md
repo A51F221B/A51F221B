@@ -3,12 +3,9 @@
 [![Website](https://img.shields.io/website?label=@a51f221b.medium.com&style=for-the-badge&url=https%3A%2F%2F@asifkashif478.com)](https://a51f221b.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/A51F221B?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=A51F221B)
 
-## I'm a Cybersecurity student & technology enthusiast 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm just a normal student experimenting with different things
-- 🥅 Looking to make a positive impact on the community
-
+## I am a Security Researcher and Python programmer
+Hi there ! My main of area of work is Web App penetration testing. I mainly work on different bug bounty platforms and try to get into different scopes of my choice.I am also experienced in Python programming, mainly I develop tools for pentesting that will help me and hopefully the community in their security research.I also play ctfs on platforms like tryhackme.In my free time I write blogs about different ctf writeups or any bugs that i have found on any platform.Right now I am also working on backend application development using python framework i.e. Django 
+> I am also open to collaboration or full time work.
 
 ### Connect with me:
 
