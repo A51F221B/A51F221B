@@ -5,7 +5,7 @@
 
 ## I am a Security Researcher and Python programmer
 Hi there! My main area of work is Web App penetration testing. I primarily work on different bug bounty platforms and get into different scopes of my choice. I am also experienced in Python programming, and I develop tools for pentesting that will help me and hopefully the community in their security research. I also play CTF (Capture The Flag) on platforms like tryhackme. I write blogs about other CTF writeups or bugs that I have found on any app in my free time. Right now, I am also working on backend application development using python framework, i.e., Django 
->I am also open to collaboration or full-time work to contact me any time.
+>I am also open to collaboration or full-time work, feel free to contact me any time.
 
 
 ### Connect with me:
