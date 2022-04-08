@@ -30,7 +30,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### Recent Medium Articles :
+### New on my Blog :
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@a51f221b/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@a51f221b/0" alt="Recent Article 0"> 
 
 
