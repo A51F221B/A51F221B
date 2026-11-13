@@ -3,7 +3,7 @@
 [![Blog][badge-blog]](https://a51f221b.dev)
 [![LinkedIn][badge-linkedin]](https://www.linkedin.com/in/A51F221B)
 [![X][badge-x]](https://x.com/A51F221B)
-[![Hack The Box][badge-htb]](https://app.hackthebox.com/profile/486836)
+[![Hack The Box][badge-htb]](https://app.hackthebox.com/public/users/486836)
 
 Currently working as a senior appsec engineer at a telecom company. My areas of interest are
 
